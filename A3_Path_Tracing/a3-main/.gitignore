@@ -1,0 +1,8 @@
+.DS_Store
+build/
+image_viewer
+t1/
+t2/
+base.cpp
+executables/*.obj
+scripts/

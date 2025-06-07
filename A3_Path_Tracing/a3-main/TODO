@@ -1,0 +1,5 @@
+// Not a triangle mesh but can try Cylinder of fixed height, radius and sides
+
+// TRY CORRECTING THE SCALING OPERATIONS FOR SPHERE // Yeh nahi ho raha :/
+
+// Modify the example.cpp file such that it takes in input and then suitably decides what to do
