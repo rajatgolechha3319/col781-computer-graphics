@@ -1,0 +1,8 @@
+# ninja log v6
+3	1079	1742055990434899075	CMakeFiles/viewer.dir/deps/src/gl.c.o	b058b26a37cef515
+4083	4443	1742287726455553961	example	a714a70cde4984
+13	3689	1742287722385650105	CMakeFiles/example.dir/src/base/example/example.cpp.o	a5a2e3deea4c097a
+4020	4083	1742287726392923437	libviewer.a	e3573827192a4e7e
+12	3882	1742287722384835367	CMakeFiles/viewer.dir/src/a2/a2.cpp.o	5160d5d614b7009e
+2	2260	1742055990434292209	CMakeFiles/viewer.dir/src/base/hw/hw.cpp.o	c010fd06594bc364
+13	4020	1742287722385501982	CMakeFiles/viewer.dir/src/base/viewer/viewer.cpp.o	618eb87494162440

@@ -1,0 +1,6 @@
+/Users/darkelixir/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/darkelixir/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_C_COMPILER=/usr/local/bin/gcc-14 -DCMAKE_CXX_COMPILER=/usr/local/bin/g++-14 -G Ninja -S /Users/darkelixir/Desktop/COL781/A2/my_v -B /Users/darkelixir/Desktop/COL781/A2/my_v/cmake-build-debug
+-- SDL2 include path: /usr/local/Cellar/sdl2/2.30.11/include
+-- SDL2 libraries: /usr/local/Cellar/sdl2/2.30.11/lib/libSDL2.dylib
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/darkelixir/Desktop/COL781/A2/my_v/cmake-build-debug
